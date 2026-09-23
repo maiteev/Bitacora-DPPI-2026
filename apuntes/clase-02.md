@@ -1,4 +1,5 @@
 # Clase 2 
+2026-08-20
 sensores son acciones --- procesadores= maquinas --- actuador= respuesta 
 
 **Como ven los computadores** 
