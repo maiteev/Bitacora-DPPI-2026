@@ -1,4 +1,6 @@
 # Clase 01 
+2026-08-13
+
 - fenómeno físico ≠ experiencia perceptual
 - El mundo no viene etiquetado
 - proxemica
