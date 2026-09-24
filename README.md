@@ -1,6 +1,6 @@
 #  Bitácora - DPPI 2026
 
-Repositorio para la gestión, registro de apuntes y seguimiento de la asignatura **DPPI 2026**.
+Repositorio de Maite Villarroel para registro de apuntes y seguimiento de la asignatura **DPPI 2026**.
 
 
 ---
