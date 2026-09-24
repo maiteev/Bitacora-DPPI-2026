@@ -1,4 +1,5 @@
 # Clase 04 
+2026-08-03
 El profe felipe nos mostro su repositorio de 2 realidades 
 
 https://fefeliperoar.github.io/dos-realidades/demo-12-realidades.html 
