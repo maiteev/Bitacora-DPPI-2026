@@ -2,6 +2,11 @@
 
 Repositorio de Maite Villarroel para registro de apuntes y seguimiento de la asignatura **DPPI 2026**.
 
+**Mis otros repos de esta clase ouyeah:** 
+
+- Primer proyecto (gestos): https://github.com/maiteev/justin- 
+
+- Segundo trabajo (2 realidades): https://github.com/maiteev/No-solo-lo-intencional-se-nota 
 
 ---
 
