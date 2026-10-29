@@ -2,15 +2,17 @@
 
 Repositorio de Maite Villarroel para registro de apuntes y seguimiento de la asignatura **DPPI 2026**.
 
-**Mis otros repos de esta clase ouyeah:** 
+**Mis repos de esta clase ouyeah:** 
 
-- Primer proyecto (gestos): https://github.com/maiteev/justin- 
+- Primer proyecto (Gestos): https://github.com/maiteev/justin- 
 
-- Segundo trabajo (2 realidades): https://github.com/maiteev/No-solo-lo-intencional-se-nota 
+- Segundo trabajo (2 realidades): https://github.com/maiteev/No-solo-lo-intencional-se-nota
+- Sexto proyecto (Misma Tierra): https://github.com/maiteev/Misma-tierra-
 
 ---
 
 ##  Recursos del Curso
 * https://github.com/disenoUDP/dis9087-2026-2 
 * https://discord.com/channels/1259953568446808144/1537491535191343235
+  
 
