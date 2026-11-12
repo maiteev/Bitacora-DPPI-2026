@@ -8,7 +8,7 @@ Repositorio de Maite Villarroel para registro de apuntes y seguimiento de la asi
 
 - Segundo trabajo (2 realidades): https://github.com/maiteev/No-solo-lo-intencional-se-nota
 - Sexto proyecto (Misma Tierra): https://github.com/maiteev/Misma-tierra-
-- Septimo trabajo (fisher man and fisher girl): https://maiteev.github.io/pesca-tacto-/juego.html
+- Septimo trabajo (fisher man and fisher girl): https://github.com/maiteev/pesca-tacto-
 
 ---
 
