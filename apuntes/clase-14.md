@@ -1,11 +1,13 @@
 Aqui subire todo mi proceso creativo para crear el examen ( portafolio) 
 parti la clase pasada buscando referencias en pinterest y estaba un poco perdida ya que queria hacer muchas cosas y no me decidia por nada, entonces me termine decidiendo por una idea media street 
+
 Moodboard opción 1 
 ### Moodboard / Referencias visuales
-<img src="./figma/MacBook%20Pro%2014_%20-%201.jpg" alt="Moodboard visual" width="600" />
+<img src="./figma/periferico.png" alt="Moodboard visual" width="600" />
 
-### Referencias de grilla e interacción
-<img src="./figma/periferico%20(1).jpg" alt="Referencias editoriales" width="600" />
+### Boceto página completa (Diseño de productos)
+<img src="./figma/MacBook%20Pro%2014_%20-%202%20(1).png" alt="Boceto diseño de productos" width="450" />
+y ademas hice una estructura en figma, primera vez usando figma, lo conoci gracias a unas amigas que están en el ramo de interfaces web. 
 
 
 Despues de un analisis largo me decidi por irme por algo minimalista porque no me sentia 100% convencida con la opción 1 y aqui les muestro el proceso y los detalles de todo para crear la pagina 
@@ -15,9 +17,10 @@ Despues de un analisis largo me decidi por irme por algo minimalista porque no m
 ### Boceto proyectos (distribución libre)
 <img src="./figma/MacBook%20Pro%2014_%20-%204.png" alt="Boceto proyectos" width="600" />
 
-### Boceto página completa (Diseño de productos)
-<img src="./figma/MacBook%20Pro%2014_%20-%202%20(1).png" alt="Boceto diseño de productos" width="450" />
-y ademas hice una estructura en figma, primera vez usando figma, lo conoci gracias a unas amigas que están en el ramo de interfaces web. 
+Moodboard opción 2  
+### Moodboard / Referencias visuales
+<img src="./figma/periferico(2).png" alt="Referencias editoriales" width="600" />
+
 
 ## Tipografía
 
@@ -57,30 +60,20 @@ El sitio es editorial y minimalista: fondo blanco, una sola tipografía, mucho a
 * **Proyectos:** las tarjetas aparecen apiladas como fotos sobre una mesa y se ordenan solas en una grilla al llegar a la sección.
 * **pura maña:** las piezas giran en un anillo `3D` que se puede arrastrar y lanzar.
 
-### Capturas y vistas del sistema
+## 01 — Diseño de Productos
 
-> **Nota:** Reemplaza las rutas `./ruta/imagen.png` con los enlaces o rutas reales de tus capturas en el repositorio.
+| Proyecto | Materiales | Con quién lo hice | Planimetrías |
+| :--- | :--- | :--- | :---: |
+| **Banca Estructural** | Junquillos de madera `19 × 19 mm` | Acevedo, Lavalle y Toro | [PDF](./ruta/banca-estructural.pdf) |
+| **jüko** | Junquillos de madera `19 × 19 mm`, papel de acuarela | Belén Castillo, Martina Fernández y Ma. Ignacia Zamudio | [PDF](./ruta/juko.pdf) |
+| **ZETA** | Sheet metal plegado negro mate, madera | Sola | [PDF](./ruta/zeta.pdf) |
+| **Golondrina Chilena** | Pino, roble, chapa de madera, impresión 3D, acrílico | Belén Castillo, Martina Fernández y Ma. Ignacia Zamudio · *convenio con Parquemet* | [PDF](./ruta/golondrina-chilena.pdf) |
 
-| Portada | About me |
-| :---: | :---: |
-| ![Portada](./ruta/portada.png) | ![About me](./ruta/about-me.png) |
+## 02 — Interacción Digital
 
-| Proyectos: mazo | Proyectos: grilla |
-| :---: | :---: |
-| ![Mazo](./ruta/proyectos-mazo.png) | ![Diseño de Productos](./ruta/proyectos-grilla.png) |
-
-| Detalle del proyecto (modal) | Interacción Digital |
-| :---: | :---: |
-| ![Modal](./ruta/detalle-modal.png) | ![Interacción Digital](./ruta/interaccion-digital.png) |
-
-| pura maña | Carrusel 3D |
-| :---: | :---: |
-| ![pura maña](./ruta/pura-mana.png) | ![Carrusel](./ruta/carrusel-3d.png) |
-
-| Página de proyecto | Contacto |
-| :---: | :---: |
-| ![Subpágina](./ruta/pagina-proyecto.png) | ![Contacto](./ruta/contacto.png) |
-
-| Móvil: portada | Móvil: proyectos |
-| :---: | :---: |
-| ![Móvil portada](./ruta/movil-portada.png) | ![Móvil proyectos](./ruta/movil-proyectos.png) |
+| Proyecto | Tecnologías | Demo | Código | Video |
+| :--- | :--- | :---: | :---: | :---: |
+| **Gestos Justin** | `Python`, `MediaPipe`, visión artificial | [ver](https://enlace-demo) | [repo](https://github.com/usuario/repo) | [sí](https://enlace-video) |
+| **No solo lo intencional se nota** | `JavaScript`, `MediaPipe Hands`, `OpenCV` | [ver](https://enlace-demo) | [repo](https://github.com/usuario/repo) | [sí](https://enlace-video) |
+| **Misma Tierra** | `HTML`, `CSS`, `JavaScript`, `Web Audio API` | [ver](https://enlace-demo) | [repo](https://github.com/usuario/repo) | [sí](https://enlace-video) |
+| **Pesca tacto** | Sensores de movimiento, interacción táctil, `WebSockets` | [ver](https://enlace-demo) | [repo](https://github.com/usuario/repo) | [sí](https://enlace-video) |
