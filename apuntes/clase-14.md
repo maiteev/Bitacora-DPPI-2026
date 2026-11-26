@@ -1,7 +1,22 @@
 Aqui subire todo mi proceso creativo para crear el examen ( portafolio) 
 parti la clase pasada buscando referencias en pinterest y estaba un poco perdida ya que queria hacer muchas cosas y no me decidia por nada, entonces me termine decidiendo por una idea media street 
 Moodboard opción 1 
+### Moodboard / Referencias visuales
+<img src="./figma/MacBook%20Pro%2014_%20-%201.jpg" alt="Moodboard visual" width="600" />
 
+### Referencias de grilla e interacción
+<img src="./figma/periferico%20(1).jpg" alt="Referencias editoriales" width="600" />
+
+
+Despues de un analisis largo me decidi por irme por algo minimalista porque no me sentia 100% convencida con la opción 1 y aqui les muestro el proceso y los detalles de todo para crear la pagina 
+### Boceto portada (`ma!te`)
+<img src="./figma/MacBook%20Pro%2014_%20-%203.png" alt="Boceto portada" width="600" />
+
+### Boceto proyectos (distribución libre)
+<img src="./figma/MacBook%20Pro%2014_%20-%204.png" alt="Boceto proyectos" width="600" />
+
+### Boceto página completa (Diseño de productos)
+<img src="./figma/MacBook%20Pro%2014_%20-%202%20(1).png" alt="Boceto diseño de productos" width="450" />
 y ademas hice una estructura en figma, primera vez usando figma, lo conoci gracias a unas amigas que están en el ramo de interfaces web. 
 
 ## Tipografía
